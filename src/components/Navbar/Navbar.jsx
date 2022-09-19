@@ -1,11 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './Navbar.css';
 
 const Navbar = () => {
   return (
-    <div>
-        <div class = "navbar_home">Home</div>
-        <div class = "navbar_about">About me</div>
-        <div class = "navbar_contact">Contact</div>
+    <div className = "navbar">
+        <div className = "navbar_home">Home</div>
     </div>
   )
 }

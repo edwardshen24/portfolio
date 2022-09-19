@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    font-size: large;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.navbar, .navbar_home{
+    background-color: #b1bfd3;
+    color: white;
+}

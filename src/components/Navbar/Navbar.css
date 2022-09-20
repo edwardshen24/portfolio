@@ -4,10 +4,10 @@
     justify-content: center;
     font-size: large;
     padding: 1rem;
-    border-radius: 10px;
+    box-shadow: 0 0 3px #ccc;
 }
 
 .navbar, .navbar_home{
-    background-color: #b1bfd3;
+    background-color: black;
     color: white;
 }

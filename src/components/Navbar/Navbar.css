@@ -5,9 +5,11 @@
     font-size: large;
     padding: 1rem;
     box-shadow: 0 0 3px #ccc;
+    position: absolute;
+    width: 100%;
 }
 
-.navbar, .navbar_home{
+.navbar, .navbar_home, .navbar_education, .navbar_projects, .navbar_skills{
     background-color: black;
     color: white;
 }

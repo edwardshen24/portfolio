@@ -7,6 +7,8 @@ const Navbar = () => {
     <div className = "navbar">
         <div className = "navbar_home">Home</div>
         <div className = "navbar_education">Education</div>
+        <div className = "navbar_projects">Projects</div>
+        <div className = "navbar_skills">Skills</div>
     </div>
   )
 }
